@@ -1,2 +1,9 @@
-# comma_to_pipe_conv
-Comma to Pipe Converter App
+# Comma to Pipe Converter
+
+## Objective
+- To change a delimiter of csv file from comma to pipe for some purpose.
+- To change Excel file into csv file and delimitered with pipe for some purpose.
+
+## Libraries
+- Pandas
+- Streamlit
