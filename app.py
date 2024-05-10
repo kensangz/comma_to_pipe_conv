@@ -18,7 +18,7 @@ if file_type_select =='Excel':
 
         st.download_button("Download CSV with Pipe prepared",
                             df_1.to_csv(sep='|',index=False,quoting=1,quotechar='"'),
-                            file_name="DER_xxx.csv",
+                            file_name="commatopipe.csv",
                             mime='text/csv')
 
 else:
