@@ -7,3 +7,4 @@
 ## Libraries
 - Pandas
 - Streamlit
+- Matplotlib
